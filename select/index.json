@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "知らんけど",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-11T12:21:15.600774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "知らんけど",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_知らんけど_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "知らんけど (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_知らんけど_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知らんけど",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_知らんけど_=LOVE.txt"
+    }
+  ]
+}
